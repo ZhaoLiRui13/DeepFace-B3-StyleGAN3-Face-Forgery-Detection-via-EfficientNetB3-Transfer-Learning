@@ -116,13 +116,11 @@ Test:       load_image → resize(224×224) → preprocess_input
 
 | Metric        | Stage 1 | Stage 2 (Fine-tuned) |
 | ------------- | ------- | -------------------- |
-| Test Accuracy | —       | —                    |
-| Precision     | —       | —                    |
-| Recall        | —       | —                    |
-| F1-Score      | —       | —                    |
-| AUC-ROC       | —       | —                    |
-
-> Fill in the above table upon completion of the training pipeline.
+| Test Accuracy | —       | 0.8163               |
+| Precision     | —       | 0.8270               |
+| Recall        | —       | 0.8000               |
+| F1-Score      | —       | 0.8133               |
+| AUC-ROC       | —       | 0.9015               |
 
 ### Generated Visualizations
 
@@ -263,9 +261,9 @@ A structured hyperparameter search — encompassing learning rate schedules, reg
 
 ---
 
-## Author
+## Contact
 
-> Please complete with your full name, institutional affiliation, and contact information.
+> email me: 23106020048@student.uin-suka.ac.id
 
 ---
 
