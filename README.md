@@ -1,0 +1,1 @@
+# DeepFace-B3-StyleGAN3-Face-Forgery-Detection-via-EfficientNetB3-Transfer-Learning
